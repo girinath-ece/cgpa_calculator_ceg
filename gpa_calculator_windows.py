@@ -1,9 +1,5 @@
 """
-Reference Links:
-https://coderslegacy.com/python/pyqt-qlineedit/
-https://zetcode.com/gui/pyqt5/layout/
-https://www.geeksforgeeks.org/pyqt5-message-box/
-
+For Windows
 """
 
 from PyQt5 import QtCore, QtGui, QtWidgets
